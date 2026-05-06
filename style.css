@@ -86,7 +86,7 @@ ul li a.active {
 }
 
 .placement-homepage  {
-  background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)), url(/Bilder/P1020066.JPG);
+  background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)), url(Bilder/P1020066.JPG);
   background-size: cover;
   background-position: center;
   height:auto ;
